@@ -1,4 +1,4 @@
-# The Ultimate Web3 Security Researcher Roadmap
+# The Ultimate Security Researcher Roadmap with Solidity
 An updated (by 2024) roadmap to help you become a successful Web3 security researcher with [Solidity](https://docs.soliditylang.org/)
 
 1. [Read](https://cypherpunks-core.github.io/ethereumbook) the Mastering Ethereum book.
